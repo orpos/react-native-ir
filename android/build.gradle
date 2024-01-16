@@ -38,7 +38,7 @@ def supportsNamespace() {
 
 android {
   if (supportsNamespace()) {
-    namespace "com.ir"
+    namespace "com.danielr18.irmanager"
 
     sourceSets {
       main {
