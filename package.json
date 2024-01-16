@@ -5,7 +5,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielr18/react-native-ir-manager.git"
+    "url": "https://github.com/orpos/react-native-ir.git"
   },
   "keywords": [
     "react-native",
