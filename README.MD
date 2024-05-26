@@ -2,6 +2,8 @@
 
 A react-native interface for using the Infrared (IR) transmitter in Android smartphones with [ConsumerIRManager](https://developer.android.com/reference/android/hardware/ConsumerIrManager.html). 
 
+you can use https://github.com/luan-nvg/react-native-ir
+
 ### this fork is not ready for use and is under testing
 
 ## Getting started
